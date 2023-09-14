@@ -180,6 +180,7 @@ function login()
         }
     }
 }
+
 function displayWelcomeUser()
 {
     document.getElementById("username").innerHTML = "Welcome "+ username;
